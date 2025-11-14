@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
     <html>
       <head><title>MCP Demo</title></head>
       <body>
-        <h1>Welcome to the demo app</h1>
+        <h1>Hello from MCP demo</h1>
       </body>
     </html>
   `);
